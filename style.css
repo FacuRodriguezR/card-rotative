@@ -63,4 +63,5 @@ article:hover img:last-child {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    gap: 50px;
 }
